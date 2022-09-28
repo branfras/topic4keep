@@ -6,6 +6,7 @@ namespace topic4keep
     {
         static void Main(string[] args)
         {
+            // Brandon Fraser ICS4U1
             Random generator = new Random();
             int useMin;
             int useMax;
